@@ -1,0 +1,21 @@
+$blue-h2: #16a085;
+
+html,
+body {
+	margin: 0;
+	padding: 0;
+	font-family: "Varela Round";
+}
+
+a {
+	text-decoration: none;
+}
+
+.h2 {
+	font-size: 18px;
+	font-weight: 700;
+	letter-spacing: 2.7px;
+	text-transform: uppercase;
+	color: $blue-h2;
+}
+
